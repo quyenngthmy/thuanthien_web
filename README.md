@@ -34,11 +34,11 @@ npm install
 
 ### Scripts
 List and explain the available npm scripts:
-
+```
 npm start: Start the development server.
 npm run build: Build the project for production.
 npm test: Run tests.
-
+```
 ### Folder Structure
 Explain the purpose of each important folder in your project.
 ```
