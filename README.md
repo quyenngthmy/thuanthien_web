@@ -4,6 +4,7 @@ A rice introduction website includes a home page, introduction page, blog page, 
 
 ## Table of Contents
 
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Scripts](#scripts)
 - [Folder Structure](#folder-structure)
