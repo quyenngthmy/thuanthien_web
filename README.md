@@ -5,12 +5,9 @@ A rice introduction website includes a home page, introduction page, blog page, 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Configuration](#configuration)
 - [Scripts](#scripts)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -36,14 +33,14 @@ cd source
 npm install
 ```
 
-Scripts
+### Scripts
 List and explain the available npm scripts:
 
 npm start: Start the development server.
 npm run build: Build the project for production.
 npm test: Run tests.
 
-Folder Structure
+### Folder Structure
 Explain the purpose of each important folder in your project.
 ```
 ├── /build/                  # Compiled files (not included in the repository)
