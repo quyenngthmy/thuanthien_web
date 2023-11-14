@@ -36,13 +36,14 @@ npm install
 
 ### Scripts
 List and explain the available npm scripts:
+
 Start the development server:
 ```
 npm start
 ```
 Build the project for production:
 ```
-npm run build:
+npm run build
 ```
 Run tests:
 ```
