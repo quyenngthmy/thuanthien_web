@@ -46,7 +46,7 @@ export class CartHeader extends Component {
         return (
             <div className="relative w-fit flex gap-9 group lg:z-[60]">
                 <button className="w-fit h-fit flex relative">
-                    <a href={URL} className="flex">
+                    <a href="#" className="flex">
                         <span className="twi-17-shopping-cart-fill text-white text-2xl leading-6"></span>
                     </a>
                     {TotalProduct < 100 ? (
@@ -158,7 +158,7 @@ export class CartHeader extends Component {
                                 </div>
                             )}
                             <div className="w-full p-4 flex">
-                                <a href={URL} className="w-full bg-primary-1 rounded-full py-2">
+                                <a href="#" className="w-full bg-primary-1 rounded-full py-2">
                                     <button className="w-full text-center text-white text-body-1 font-medium">
                                         Xem giỏ hàng
                                     </button>

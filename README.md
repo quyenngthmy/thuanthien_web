@@ -21,8 +21,9 @@ Make sure you have the following software installed before proceeding:
 ### Installation
 
 1. Clone the repository:
+git clone
 ```
-git clone https://github.com/quyenngthmy/thuanthien_web.git
+https://github.com/quyenngthmy/thuanthien_web.git
 ```
 2. Navigate to the project directory:
 ```
@@ -35,14 +36,17 @@ npm install
 
 ### Scripts
 List and explain the available npm scripts:
+Start the development server:
 ```
-npm start: Start the development server.
+npm start
 ```
+Build the project for production:
 ```
-npm run build: Build the project for production.
+npm run build:
 ```
+Run tests:
 ```
-npm test: Run tests.
+npm test
 ```
 ### Folder Structure
 Explain the purpose of each important folder in your project.

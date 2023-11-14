@@ -162,7 +162,7 @@ module.exports = {
         medium: '450',
       },
       backgroundImage: {
-        'home': "url('/src/img/home/home-banner.png')",
+        'home': "url('/src/img/home/home-banner.jpg')",
       },
       animation: {
         'header': 'spin 300ms ease-in-out infinite',

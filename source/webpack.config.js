@@ -150,24 +150,6 @@ module.exports = {
       inject: "body",
       chunks: ['index'],
     }),
-    new HtmlWebpackPlugin({
-      filename: 'searchOrder.html',
-      template: './src/view/searchOrder.html',
-      inject: "body",
-      chunks: ['index'],
-    }),
-    new HtmlWebpackPlugin({
-      filename: 'searchProduct.html',
-      template: './src/view/searchProduct.html',
-      inject: "body",
-      chunks: ['index'],
-    }),
-    new HtmlWebpackPlugin({
-      filename: 'searchBlog.html',
-      template: './src/view/searchBlog.html',
-      inject: "body",
-      chunks: ['index'],
-    }),
     new MiniCssExtractPlugin({
       filename: "static/css/[name].min.css",
     }),
