@@ -1,6 +1,6 @@
 # Thuan Thien application web
 
-A rice introduction website includes a home page, introduction page, blog page, blog product page, product page, detailed product page, and contact page. The website has features like order product, cart, slides
+A rice introduction website includes a home page, introduction page, blog page, detailed blog page, product page, detailed product page, and contact page. The website has features like order product, cart, slides
 
 ## Table of Contents
 
