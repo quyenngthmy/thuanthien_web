@@ -21,9 +21,8 @@ Make sure you have the following software installed before proceeding:
 ### Installation
 
 1. Clone the repository:
-git clone
 ```
-https://github.com/quyenngthmy/thuanthien_web.git
+git clone https://github.com/quyenngthmy/thuanthien_web.git
 ```
 2. Navigate to the project directory:
 ```
